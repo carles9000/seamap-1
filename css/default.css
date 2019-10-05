@@ -1,0 +1,39 @@
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+form {
+	margin:0px;
+}
+
+.btn_grid {
+	border: 0px;
+	background-color:transparent;
+	margin:2px;
+}
+
+#header {
+
+    margin: 10px;
+    border: 1px solid blue;
+    padding: 10px;
+	height: 70px;	
+}
+
+#logo {
+	height: 50px;
+}
+
+#content {
+
+	position: absolute;
+    border: 1px solid red;
+    padding: 10px;
+    top: 95px;
+    bottom: 10px !important;
+    overflow: auto;
+    right: 10px;
+    left: 10px;
+}
+
